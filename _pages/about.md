@@ -2,7 +2,7 @@
 permalink: /
 title: "Des visages synthétiques pour un apprentissage éthique ?"
 excerpt: ""
-author_profile: False
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
