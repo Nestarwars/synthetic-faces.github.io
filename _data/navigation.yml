@@ -5,7 +5,7 @@ main:
     url: /usage/    
 
   - title: "Technology"
-    url: /technology/
+    url: /technology/detection
 
   - title: "Enjeux"
     url: /enjeux/ 
