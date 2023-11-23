@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
+title: "Des visages synthétiques pour un apprentissage éthique ?"
+excerpt: ""
+author_profile: False
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Des visages synthétiques pour un apprentissage éthique ?
-======
 LOREM IPSUM DOLOR
 
 Getting started
