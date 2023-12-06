@@ -54,12 +54,12 @@ Le développement des technique de visage synthétiques par intelligence artific
 
 Les premières tentatives de modélisation 3D des visages commencent dans les années 1970, mais les résultats manquaient encore de réalisme. Le film de Richard T. Heffron réalisé en 1976, Futureworld, est souvent considéré comme une tentative pionnière de modélisation d’un visage numérique au cinéma, bien que les effets soient encore rudimentaires. 
 
- + inclure extrait vidéo si possible
+<iframe width="1250" height="703" src="https://www.youtube.com/embed/lTMtu4Z5T-U" title="Futureworld (1976) - Original Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Dans les années 1990, l’émergence de la capture de mouvement permet de nouvelles avancées puisque les émotions faciales peuvent être captées et transférées sur les modèles numériques. Cependant, il faut attendre le développement des techniques du deep learning et des réseaux neuronaux dans les années 2010 pour que les modèles gagnent en détail et en réalisme. La partie technique du développement des réseaux neuronaux pour analyser les bases de données d’expressions faciales humaines sera détaillée dans la partie sur la lecture de la base de données choisie pour cette étude, qui est celle de Microsoft. 
 
 
-https://www.emilemagazine.fr/article/2019/3/15/ia-ces-visages-n-existent-pas 
+https://www.emilemagazine.fr/article/2019/3/15/ia-ces-visages-n-existent-pas
 
 
 
