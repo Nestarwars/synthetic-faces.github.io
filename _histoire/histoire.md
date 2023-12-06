@@ -36,7 +36,7 @@ L’intelligence artificielle est représentée très tôt au cinéma, souvent d
 
 Dès les années 1920, la relation entre homme et machine est explorée dans le film Métropolis, notamment avec le personnage du robot Maria. Plus tard, dans les années 2000, I.A.Intelligence Artificielle de Steven Spielberg raconte l'histoire d'un robot enfant cherchant à devenir humain.
 
-![Affiche du film AI de Steven Spielberg](/images/AfficheAI.png)
+![Affiche du film AI de Steven Spielberg](/synthetic-faces.github.io/images/affiche-ai.png)
  + insérer la vidéo de la BA dans le site si possible 
 
 Les craintes et les curiosités sont donc reflétées dans les scénarios, mais le cinéma entretient aussi une relation avec l’intelligence artificielle par les techniques qui sont utilisées pour créer de nouveaux effets spéciaux. 
