@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Usage"
-    url: /usage/    
+  - title: "Histoire"
+    url: /histoire/histoire    
 
   - title: "Technology"
     url: /technology/detection
