@@ -147,6 +147,9 @@ collections:
   technology:
     output: true
     permalink: /:collection/:path/
+  histoire:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -182,6 +185,15 @@ defaults:
   - scope:
       path: ""
       type: technology
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _histoire
+  - scope:
+      path: ""
+      type: histoire
     values:
       layout: single
       author_profile: true
