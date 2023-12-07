@@ -1,12 +1,12 @@
 ---
-title:"Enjeux esthétiques et éthiques des visages synthétiques"
+title: "Enjeux esthétiques et éthiques des visages synthétiques"
 collection: enjeux
 type: ""
 permalink: /enjeux/enjeux
 ---
 
 
-A Esthétique 
+# Enjeux esthétiques et quête du réalisme
 
 "Oui, alors, en fait ça c'est la position que je tiens un peu dans l'article [https://hal.science/hal-04248804/document], c'est que toutes ces technologies, en fait elles ne remettent pas en question fondamentalement la place de l'homme et du visage dans le cinéma. Le cinéma n'a pas attendu les technologies numériques pour défigurer le visage, pour l'effacer, pour le gommer, pour le transformer, donc de ce point de vue-là, il n'y a pas grand-chose qui change, d'autant plus que les films où les visages ou les comédiens sont numériquement remplacés, ils sont quand même assez peu nombreux. Ils ont une grande place dans le paysage, parce qu'il s'agit souvent de films hollywoodiens."
 
@@ -16,7 +16,7 @@ La recherche du réalisme
 
 
 
-B - Implications éthiques et politiques 
+# Implications éthiques et politiques 
 
 Dans Ethique et Infini, Levinas définit la morale comme un absolu qui régit toute existence avec rigueur et qui oriente la relation à autrui, nommée responsabilité-pour-autrui. L’expérience d’autrui est donc prépondérante, et celle-ci dans le visage, qui excède toute description possible. Lévinas décrit le visage comme une vulnérabilité absolue, “mais cette supplication est une exigence” de soutien et d’aide. “Le visage s’impose à moi sans que je puisse cesser d’être responsable de sa misère. La conscience perd sa première place”.
 
