@@ -4,8 +4,11 @@ main:
   - title: "Histoire"
     url: /histoire/histoire    
 
-  - title: "Technology"
+  - title: "Technologie"
     url: /technology/detection
+     
+    - title: "Usages"
+    url: /usages/
 
   - title: "Enjeux"
     url: /enjeux/ 
