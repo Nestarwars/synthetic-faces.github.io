@@ -205,6 +205,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _histoire
+  - scope:
+      path: ""
+      type: usages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _histoire
+  - scope:
+      path: ""
+      type: enjeux
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
