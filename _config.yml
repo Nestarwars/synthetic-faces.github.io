@@ -165,6 +165,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  interviews:
+    output: true
+    permalink: /:collection/path/
 
 
 # Defaults
