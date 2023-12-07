@@ -1,7 +1,7 @@
 ---
 title: "Interview de Samuel Solé, doctorant à l'ENS-PSL"
 collection: interviews
-type: ""
+type: "interviews"
 permalink: /interviews/Sole
 ---
 
