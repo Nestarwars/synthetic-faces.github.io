@@ -81,4 +81,11 @@ Il existerait donc un risque de transmission de biais depuis l'étape de product
 ***C.B***:
 Dans une base de données réelle, les biais sont souvent plus facilement identifiables, peut-être plus visibles, alors que dans une base de données synthétique, en particulier en ce qui concerne les morphologies, il peut être très difficile de déterminer si la diversité est suffisante ou non.
 
+***N.L***: Au delà des questions de performances et de généralisation de ces bases de données, y aurait-il des spécificités éthiques à utiliser des données synthétiques plutôt que des données réelles ?
 
+***K.B***:
+Cela dépend vraiment des cas. Si une base de données est entièrement générée de manière synthétique, ce qui est rarement le cas en réalité, alors, du point de vue éthique, on ne rencontre généralement pas de problèmes liés aux droits sur les données, tels que les droits à l'image ou les licences. Bien sûr, cela suppose que l'on utilise des logiciels pour lesquels on dispose des licences nécessaires et des droits d'utilisation.
+
+Cependant, il est rare d'être en mesure de créer une base de données synthétique à partir de zéro. Souvent, cela repose sur des modèles génératifs qui sont une simplification de la réalité. Dans le contexte du visage, cela peut être basé sur des modèles morphables de visage de qualité inférieure à ce que l'on souhaite obtenir à la fin. Malgré cela, on a besoin de cette source d'information au début.
+
+Dans ces cas, on déplace en fait le problème, car si le modèle génératif de base avait été créé à partir de données sous une licence non permissive, on ne fait que propager ces problèmes de licence en amont. Aujourd'hui, la législation sur ce sujet n'est pas forcément très claire, mais en général, il n'est pas permis d'utiliser des données ou un modèle qui a été créé à partir de données dont on ne détient pas les droits pour effectuer quelque chose par la suite. Ainsi, ces problèmes peuvent se propager tout au long du traitement des données.
