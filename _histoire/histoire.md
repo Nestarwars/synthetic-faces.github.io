@@ -1,5 +1,5 @@
 ---
-title: "Histoire"
+title:
 collection: histoire
 type: ""
 permalink: /histoire/histoire
