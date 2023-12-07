@@ -1,12 +1,11 @@
 ---
-title:
+title: Histoire des visages synthétiques
 collection: histoire
 type: ""
 permalink: /histoire/histoire
 ---
 
-Histoire des visages synthétiques
-=================================
+
 
 Les spécificités du visage dans les arts 
 ----------------------------------------
