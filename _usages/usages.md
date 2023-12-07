@@ -1,12 +1,10 @@
 ---
-title: "Usages"
+title: "Usages des visages synthétiques"
 collection: usages
 type: ""
 permalink: /usages/usages
 ---
 
-Usages des visages synthétiques
-===============================
 
 
 Comme souligné par les auteurs de la base de données de Microsoft [^1], l’apport principal de leur travail est d'avoir créé une base de données de visages à partir de données entièrement synthétiques. Au lieu de collecter et labelliser des données réelles, ce qui est long et coûteux, les données d'entraînement sont synthétisées. Le premier usage serait donc d’utiliser cette nouvelle base de données pour d’autres tâches algorithmiques concernant les visages, ce qui sera un gain par rapport aux données réelles. 
