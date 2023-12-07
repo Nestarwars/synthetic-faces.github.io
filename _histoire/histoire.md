@@ -11,19 +11,15 @@ Histoire des visages synthétiques
 Les spécificités du visage dans les arts 
 ----------------------------------------
 
-Le visage tient dans les arts et dans l’histoire des représentations une place absolument primordiale. Cette partie la plus émotive du corps humain est associée à une sincérité inébranlable, qui pourrait trahir des émotions qu’on cherche parfois à cacher par le langage. 
-Le visage est muse des poètes, sujet au cinéma, objet de pensée, trace de l’autre qui désarme. 
-
+Le visage tient dans les arts et dans l’histoire des représentations une place absolument primordiale. Cette partie la plus émotive du corps humain est associée à une sincérité inébranlable, qui pourrait trahir des émotions qu’on cherche parfois à cacher par le langage. Le visage est muse des poètes, sujet au cinéma, objet de pensée, trace de l’autre qui désarme. 
 Un visage est donc associé à la sincérité, mais aussi à une certaine personnalité. Si le visage fonde le sujet, l’expression “changer de visage” signifie qu’on changerait d’attitude. 
 
 Le poète autrichien Rainer Maria Rilke écrit ainsi « Il y a une quantité de gens, mais il y a encore beaucoup plus de visages, car chacun en a plusieurs.  Voici des gens qui portent un visage depuis des années. Il s’use naturellement, se salit, éclate, se ride, s’élargit comme des gants qu’on a portés en voyage. […] D’autres gens changent de visage avec une rapidité inquiétante. Ils essaient l’un après l’autre, et les usent. »
 
 Le visage produit donc du sens dans l’identification du sujet, et c’est pourquoi il est si important dans les arts pour identifier les différents personnages.  
 
-"Pendant tout le XXème siècle, on n'a fait que dévisager le visage, lui donner une forme plastique, modulable. Et qui s'oppose radicalement aux philosophies du visage, telles que pensées par Lévinas, où le visage est une unité indestructible, indécomposable, qui dépasse la simple manifestation matérielle et physique."
- 
-Article “The Digital Face on the Screen: Continuity and Rupture in the History of the Face in Cinema” (pourrait aussi rentrer dans la partie sur les usages) 
-https://hal.science/hal-04248804/document 
+Cependant, comme le souligne Samuel Solé, doctorant SACRE-PSL, la place du visage a été remaniée dans les arts au siècle dernier. L'arrivée de la photographie a notamment amené à reconfigurer la place du visage et l'art du portrait : "Avec la photographie, les portraits peints ont dû aller chercher autre chose que la simple quête de vraisemblance, qui est aujourd'hui celle des images de synthèse.". Si le visage peut être reproduit à l'identique par les nouvelles technologies, ce qui rend sa reproduction moins intéressante dans les arts, celui-ci ne reste pas moins objet d'intérêt. 
+"Pendant tout le XXème siècle, on n'a fait que dévisager le visage, lui donner une forme plastique, modulable. Et qui s'oppose radicalement aux philosophies du visage, telles que pensées par Lévinas, où le visage est une unité indestructible, indécomposable, qui dépasse la simple manifestation matérielle et physique." ajoute Samuel Solé. 
 
 Le visage fascine tellement qu’on cherche à le reproduire ou à le modifier. Les nouvelles technologies de l’Intelligence artificielle permettent désormais cela, avec une précision grandissante. 
 
