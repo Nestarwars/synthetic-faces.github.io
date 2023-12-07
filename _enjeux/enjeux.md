@@ -5,6 +5,7 @@ type: ""
 permalink: /enjeux/enjeux
 ---
 
+
 A Esthétique 
 
 "Oui, alors, en fait ça c'est la position que je tiens un peu dans l'article [https://hal.science/hal-04248804/document], c'est que toutes ces technologies, en fait elles ne remettent pas en question fondamentalement la place de l'homme et du visage dans le cinéma. Le cinéma n'a pas attendu les technologies numériques pour défigurer le visage, pour l'effacer, pour le gommer, pour le transformer, donc de ce point de vue-là, il n'y a pas grand-chose qui change, d'autant plus que les films où les visages ou les comédiens sont numériquement remplacés, ils sont quand même assez peu nombreux. Ils ont une grande place dans le paysage, parce qu'il s'agit souvent de films hollywoodiens."
