@@ -1,6 +1,8 @@
 ---
 title: "Interview de Cédric Thebault et Kelian Baert"
 collection: interviews
-type: ""
+type: "interviews"
 permalink: /interviews/ThebaultBaert
 ---
+
+TEST
