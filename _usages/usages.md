@@ -8,9 +8,6 @@ permalink: /usages/usages
 Usages des visages synthétiques
 ===============================
 
-L’intelligence artificielle a déjà contribué à l’histoire du cinéma depuis plus d’une décennie. Si nous prenons quelques exemples, James Cameron avait utilisé des techniques avancées d'animation par ordinateur pour créer des mouvements physiques réalistes des créatures extraterrestres et des environnements pour Avatar (2009). Alfonso Cuarón a utilisé des simulations physiques basées sur l'IA pour recréer l'apesanteur dans l'espace pour son film Gravity (2013). On peut aussi citer Christopher Nolan pour Interstellar (2014), dans lequel des simulations basées sur l’IA ont permis de créer des images de disortsions de l’espace-temps (trou noir); et Jon Favreau pour The Jungle Book (2016), dont les mouvements des animaux numériques ont été produits par des techniques d’animation basées sur l’IA. Plus proche de notre sujet, War for the Planet of the Apes (2017), réalisé par Matt Reeves, a utilisé des  technologies d'IA pour animer numériquement les singes, leurs expressions faciales et leurs mouvements corporels.
-
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/JDcAlo8i2y8" title="War for the Planet of the Apes (2017)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Comme souligné par les auteurs de la base de données de Microsoft [^1], l’apport principal de leur travail est d'avoir créé une base de données de visages à partir de données entièrement synthétiques. Au lieu de collecter et labelliser des données réelles, ce qui est long et coûteux, les données d'entraînement sont synthétisées. Le premier usage serait donc d’utiliser cette nouvelle base de données pour d’autres tâches algorithmiques concernant les visages, ce qui sera un gain par rapport aux données réelles. 
 
