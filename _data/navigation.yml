@@ -7,7 +7,7 @@ main:
   - title: "Technologie"
     url: /technology/detection
      
-    - title: "Usages"
+  - title: "Usages"
     url: /usages/
 
   - title: "Enjeux"
