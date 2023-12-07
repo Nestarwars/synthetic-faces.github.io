@@ -62,3 +62,21 @@ En revanche, avec une base de données synthétique, notamment en 3D, on peut cr
 
 Dans tous les domaines, l'utilisation de bases de données synthétiques offre un contrôle total sur les informations présentes dans ces données, tout en permettant de récupérer davantage d'informations. De plus, cela évite les biais introduits par les annotations humaines, car la machine donne les informations telles qu'elles ont été construites.
 
+***N.L***:
+Y aurait-il par hasard des risques associés aux bases de données synthétiques, risques qui pourraient différer de ceux présents dans les bases de données traditionnelles collectées à partir de données réelles ?
+
+***K.B***:
+Le risque principal c'est d'avoir une base de données qui s'éloigne trop de la réalité. En fin de compte, un algorithme peut être parfaitement capable de fournir des prédictions précises pour des données appartenant à la distribution de la base de données synthétique, atteignant même une précision de 100 %. Cependant, lorsqu'on lui présente des données réelles auxquelles il n'a jamais été exposé, l'algorithme peut avoir du mal à généraliser.
+
+En travaillant avec des données synthétiques, l'objectif est généralement de pouvoir généraliser à des données réelles, en supposant que les données synthétiques soient suffisamment proches de la réalité. Cette notion de risque peut être étendue à d'autres domaines où des données sont collectées dans des conditions contrôlées, que ce soit en studio dans le contexte du cinéma, ou même dans des domaines comme l'aéronautique, où des données peuvent être recueillies dans un tunnel aérodynamique, par exemple. Il est crucial de s'assurer que les conditions réelles reflètent suffisamment les informations présentées à l'algorithme, afin d'éviter des surprises lorsque l'algorithme est confronté à des données totalement nouvelles. C'est là le principal défi auquel nous pourrions être confrontés.
+
+***C.B***:
+En ce qui concerne la construction des bases de données synthétiques, il existe des problématiques liées à la diversité. En théorie, on pourrait viser une très grande diversité, mais cela dépend des outils utilisés pour générer ces données. Par exemple, si l'on utilise un modèle morphable qui construit lui-même une base de visages à partir de données existantes, les biais présents dans la construction initiale de cette base de visages seront également présents dans le modèle morphable résultant. Ainsi, bien que l'on puisse viser des morphologies diverses, on peut finalement être limité par les biais présents dans la construction initiale, et ne pas pouvoir exprimer toute la diversité réelle souhaitée
+
+***N.L*** :
+Il existerait donc un risque de transmission de biais depuis l'étape de production ? Comme cette transmission de biais se produit dans une étape plus éloignée, au cours de la génération de données, il est possible que l'on en prenne moins conscience par rapport à une base de données réelle ?
+
+***C.B***:
+Dans une base de données réelle, les biais sont souvent plus facilement identifiables, peut-être plus visibles, alors que dans une base de données synthétique, en particulier en ce qui concerne les morphologies, il peut être très difficile de déterminer si la diversité est suffisante ou non.
+
+
