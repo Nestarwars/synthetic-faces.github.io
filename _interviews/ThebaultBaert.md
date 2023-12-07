@@ -14,7 +14,7 @@ Je suis Cédric Thebault, chercheur chez Technicolor depuis 3 ans. Mon travail c
 Je suis Kelian Baert, et je travaille dans la même équipe que Cédric depuis un an et demi. Nous travaillons sur les mêmes problématiques liées aux effets spéciaux pour le cinéma. Pour ma part, j'ai entamé une thèse et je suis actuellement étudiant au sein de cette équipe. Ma recherche se concentre sur les problématiques liées à l'édition de visages dans le contexte du cinéma et des effets visuels. Cela inclut des aspects tels que le remplacement spécifique de visages, que ce soit pour le vieillissement ou le rajeunissement d'acteurs, ou encore la substitution du visage d'une doublure sur celui d'un acteur, et d'autres problèmes similaires.
 
 ***Nestor Laborier***:
-Dans votre domaine respectif, quel est votre rapport aux bases de données en tant qu'objet, et comment interagissez-vous généralement avec ces bases de données?
+Dans votre domaine, quel est votre rapport aux bases de données en tant qu'objet, et comment interagissez-vous généralement avec ces bases de données?
 
 ***K.B*** :
 Pour moi, le rapport aux bases de données est souvent crucial pour résoudre efficacement les problèmes. Si nous n'avons pas accès à des données, nous sommes non seulement limités dans nos actions, mais aussi dans nos possibilités d'imaginer des solutions. Les données sont la base de la plupart des méthodes que nous utilisons, surtout dans le domaine de l'apprentissage automatique et de la vision par ordinateur.
