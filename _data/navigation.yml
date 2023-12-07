@@ -11,7 +11,7 @@ main:
     url: /usages/usages
     
   - title: "Enjeux"
-    url: /enjeux/ 
+    url: /enjeux/ enjeux
 
   - title: "Interview C. Thebault et K. Baert"
     url: /interviews/ThebaultBaert
