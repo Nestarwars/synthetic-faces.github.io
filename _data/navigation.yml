@@ -8,10 +8,10 @@ main:
     url: /technology/detection
      
   - title: "Usages"
-    url: /usages/
+    url: /usages/usages
 
   - title: "Enjeux"
-    url: /enjeux/ 
+    url: /enjeux/enjeux
     
   #- title: "Portfolio"
   #  url: /portfolio/
