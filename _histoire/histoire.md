@@ -30,7 +30,10 @@ L’intelligence artificielle est représentée très tôt au cinéma, souvent d
 Dès les années 1920, la relation entre homme et machine est explorée dans le film Métropolis, notamment avec le personnage du robot Maria. Plus tard, dans les années 2000, I.A.Intelligence Artificielle de Steven Spielberg raconte l'histoire d'un robot enfant cherchant à devenir humain.
 
 
+
 <iframe width="1250" height="700" src="https://www.youtube.com/embed/a6lTk0mLaGo" title="DEATH STRANDING Director`s Cut partie 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 Les craintes et les curiosités sont donc reflétées dans les scénarios, mais le cinéma entretient aussi une relation avec l’intelligence artificielle par les techniques qui sont utilisées pour créer de nouveaux effets spéciaux. 
 
@@ -42,7 +45,9 @@ Par exemple, James Cameron a utilisé des techniques avancées d'animation par o
 
 Plus proche de notre sujet, War for the Planet of the Apes (2017), réalisé par Matt Reeves, a utilisé des  technologies d'IA pour animer numériquement les singes, leurs expressions faciales et leurs mouvements corporels.
 
+
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/JDcAlo8i2y8" title="War for the Planet of the Apes (2017)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 Le développement des technique de visage synthétiques par intelligence artificielle
@@ -50,7 +55,9 @@ Le développement des technique de visage synthétiques par intelligence artific
 
 Les premières tentatives de modélisation 3D des visages commencent dans les années 1970, mais les résultats manquaient encore de réalisme. Le film de Richard T. Heffron réalisé en 1976, Futureworld, est souvent considéré comme une tentative pionnière de modélisation d’un visage numérique au cinéma, bien que les effets soient encore rudimentaires. 
 
+
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/lTMtu4Z5T-U" title="Futureworld (1976) - Original Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 Dans les années 1990, l’émergence de la performance capture permet de nouvelles avancées puisque les émotions faciales peuvent être captées et transférées sur les modèles numériques. Mais, comme le souligne Samuel Solé, "la performance capture est très contraignante pour le jeu du comédien, cela implique de porter un ensemble d'outils, une caméra faciale, des marqueurs sur le visage, et l'ensemble du corps avec une combinaison en particulier quand l'ensemble du corps est animé". Il faut attendre le développement des techniques du deep learning et des réseaux neuronaux dans les années 2010 pour que des images synthétiques soient développées sans performance capture et que les modèles gagnent en détail et en réalisme. "Si l'image est traitée algorithmiquement après le tournage, ou pendant le tournage, mais sans avoir besoin d'un dispositif physique, le comédien retrouve sa liberté de mouvement." note Samuel Solé.  
