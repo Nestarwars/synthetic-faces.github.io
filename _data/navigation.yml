@@ -9,15 +9,17 @@ main:
 
   - title: "Usages"
     url: /usages/usages
-    
+
   - title: "Enjeux"
     url: /enjeux/enjeux
 
-  - title: "Interview C. Thebault et K. Baert"
-    url: /interviews/ThebaultBaert
+  - title: "Interviews"
+    url: /interviews/
+  # - title: "Interview C. Thebault et K. Baert"
+  #   url: /interviews/ThebaultBaert
 
-  - title: "Interview S. Solé"
-    url: /interviews/Sole
+  # - title: "Interview S. Solé"
+  #   url: /interviews/Sole
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -25,7 +27,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "Publications sur le sujet"
+  - title: "Biblio"
     url: /publications/
     
   #- title: "CV"
