@@ -1,13 +1,11 @@
 ---
-title: "Interview de Samuel Solé, doctorant à l'ENS-PSL"
+title: "Interview avec Samuel Solé, doctorant en histoire et théorie des arts au sein du laboratoire SACRe-PSL"
 collection: interviews
 type: "interviews"
 permalink: /interviews/Sole
 ---
 
-
-# Interview avec Samuel Solé, doctorant en histoire et théorie des arts au sein du laboratoire SACRe-PSL
-## conduite le 6 décembre 2023 à l'ENS par Thérèse, étudiante en Master à Sciences Po
+*Interview conduite le 6 décembre 2023 à l'ENS Ulm par Thérèse d'Orléans, étudiante en Master à Sciences Po*
 
 **Thérèse**
 Microsoft a sorti un papier à partir d'une base de données en 2021. La particularité de cette base numérique, c'est une des premières à savoir construire des visages synthétiques uniquement à partir de données synthétiques, et donc non plus à partir de données réelles comme avant. Et donc la base de données qu'ils publient, c'est une série de, je sais plus, 100 000 visages purement synthétiques avec des niveaux de réalisme inégalés, qui leur permet ensuite de faire des landmarks et des points de visage qui permettent à nouveau d'entraîner de nouveaux algorithmes en deep learning. Et donc ils ont la base de données, ils ont une vidéo explicative et ils ont le paper sur internet.

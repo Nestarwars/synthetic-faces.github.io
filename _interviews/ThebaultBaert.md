@@ -4,6 +4,8 @@ collection: interviews
 type: "interviews"
 permalink: /interviews/ThebaultBaert
 ---
+*Interview conduite le 5 décembre 2023 au siège de Technicolor Creative Studios à Paris, par Nestor Laborier. Il est ingénieur photonicien, et ancien stagiaire chez Technicolor, avec Kelian Baert et Cédric Thébault, sur les sujets de génération de visages synthétiques.*
+
 
 ***Cédric Thébault*** :
 Je suis Cédric Thebault, chercheur chez Technicolor depuis 3 ans. Mon travail consiste à développer des outils pour les effets spéciaux utilisés au cinéma. Nous utilisons des méthodes de machine learning et de computer vision.
