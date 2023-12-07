@@ -1,5 +1,5 @@
 ---
-title: "Enjeux"
+title: 
 collection: enjeux
 type: ""
 permalink: /enjeux/enjeux
@@ -7,6 +7,15 @@ permalink: /enjeux/enjeux
 
 Enjeux esthétiques et éthiques des visages synthétiques
 =================================
+A Esthétique 
+
+"Oui, alors, en fait ça c'est la position que je tiens un peu dans l'article [https://hal.science/hal-04248804/document], c'est que toutes ces technologies, en fait elles ne remettent pas en question fondamentalement la place de l'homme et du visage dans le cinéma. Le cinéma n'a pas attendu les technologies numériques pour défigurer le visage, pour l'effacer, pour le gommer, pour le transformer, donc de ce point de vue-là, il n'y a pas grand-chose qui change, d'autant plus que les films où les visages ou les comédiens sont numériquement remplacés, ils sont quand même assez peu nombreux. Ils ont une grande place dans le paysage, parce qu'il s'agit souvent de films hollywoodiens."
+
+La recherche du réalisme 
+
+"Le problème, ce n'est pas tellement que ces visages sont de plus en plus réalistes, c'est qu'on soit en tant que spectateur dans une idéologie du réalisme. On attend des images qui correspondent à un certain type d'agencement visuel, d'esthétique, qui est déterminé par des critères photo-réalistes. Mais en fait, que le visage soit réaliste ou non, ce n'est pas un problème, c'est une option esthétique. Et là, tout est déterminé par la quête de la vraisemblance et de la fidélité. C'est ce qu'un informaticien, John Walker, appelle l'idéologie mimétique. C'est le fait que toute la production visuelle, en tout cas la plus massive, soit orientée vers cet unique but qui est de se confondre avec l'image du réel. Et cette image du réel qu'on cherche à atteindre, elle est déjà idéologiquement construite par des appareils optiques comme la caméra ou l'appareil photo. On va chercher à imiter un type d'image qui nous semble être la copie conforme du réel, alors que cette copie est déjà construite technologiquement et idéologiquement. Ne serait-ce que par la perspective. Un appareil photographique organise le monde en fonction d'un point de vue qui est celui du regard humain et qui est déterminé par un point dans l'espace et des lignes de fuite qui convergent. On pourrait très bien imaginer des modes de vision, où ça ne serait pas le cas."
+
+
 
 B - Implications éthiques et politiques 
 
