@@ -150,6 +150,12 @@ collections:
   histoire:
     output: true
     permalink: /:collection/:path/
+  enjeux:
+    output: true
+    permalink: /:collection/:path/
+  usages:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
