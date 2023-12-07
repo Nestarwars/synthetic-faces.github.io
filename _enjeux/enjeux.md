@@ -28,14 +28,18 @@ Comment ne pas sentir sa responsabilité-pour-autrui en voyant la détresse infi
 
 La subjectivité du visage investit une responsabilité totale, le visage d’autrui peut incarner une responsabilité morale, et appelle une réponse si ce dernier est en détresse. Mais quand un visage peut être construit par une machine à calculer, l’image d’un visage serait à manipuler avec plus de prudence. Les techniques de synthétisation du visage humain par intelligence artificielle instille un doute, qui bouleverse notre rapport symbolique et moral aux images. 
 
+La responsabilité qu'on éprouve à l'égard d'un visage n'est pas tant lié au réalisme : "Je ne pense pas que l'empathie soit corrélée au degré de réalisme. Vous pouvez prouver de l'empathie pour... je sais pas, Ratatouille, par exemple, alors que le personnage ne ressemble pas vraiment à un vrai rat. Parfois même le fait de dévier du réaliste suscite encore plus d'empathie." 
+Le changement vient plutôt de l'absence d'individualité humaine derrière l'image de visages : "Ces images posent un problème vis-à-vis de la philosophie de Lévinas, parce que le premier problème c'est qu'elles réduisent le visage à une image, et qui plus est une image sans référent. Là où dans le cinéma il y a un référent dans le réel, là c'est un visage construit de toutes pièces. Ce qui est quand même plus ou moins une première. Après, il y a ce premier problème, la réduction du visage à une image, et du coup, dans le même temps, le visage quitte la sphère de la moralité et de l'humanité. C'est-à-dire qu'il n'est plus le lieu de l'impératif moral, « tu ne tueras point », c'est le premier reproche qu'on pourrait faire à ces images."
 
-Construction des visages synthétiques associée au mensonge (deepfake) 
-– les implications éthiques et politiques de ce bouleversement sont énormes : changement de la valeur de preuve associée aux images https://universiteouverte.u-cergy.fr/visage-et-mensonge-comment-lintelligence-artificielle-manipule-t-elle-les-images/ 
+
++ changement de la valeur de preuve associée aux images https://universiteouverte.u-cergy.fr/visage-et-mensonge-comment-lintelligence-artificielle-manipule-t-elle-les-images/ 
 
 
 Culture du faux selon Massimo Leone 
 
 <iframe width="1280" height="654" src="https://www.youtube.com/embed/9jjquRK2T5o" title="E-Guest Lecture : Massimo Leone - Semioethics of the Visual Fake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Samuel Solé : "Et il y a notamment ce professeur Massimo Leone, qui développe toute une théorie autour de ce qu'il appelle l'idéologie du visage, et qui remonte bien sûr aux travaux de la physiognomie. Des portraits robots, des travaux d'Alphonse Bertillon, qui est le premier en gros à essayer d'établir une corrélation entre certains traits du visage et la prédisposition à certains types de crimes. Et qui aujourd'hui en fait, sous pré-actualisé, par des biais plus scientifiques, on va dire, qui correspondent plus aux normes scientifiques actuelles, notamment dans les dispositifs de reconnaissance faciale, qui en fonction de certaines caractéristiques physiques vont criminaliser. En fait les biais sont essentiellement racialistes aujourd'hui. Mais effectivement, une personne qui va présenter certains traits physiques, et qui vont être détectés par un dispositif de reconnaissance sociale, c'est très courant dans les aéroports, va être le centre de l'attention du système de surveillance de l'aéroport. Ça, ça va être couplé aussi à certains types de comportements, à certains types de vêtements, il n'y a pas que le visage qui est impliqué évidemment, mais ça s'inscrit justement dans cette idéologie du visage, qui consiste à faire du visage une surface lisible, transparente, et criminalisable, si elle répond à certains critères. (...) Le problème, c'est que si un créateur veut essayer de produire un visage qui soit celui d'une personne noire, indienne ou arabe, il y a plus de chances pour que ce visage ne soit pas réaliste, ou ne suscite moins d'empathie, ou ne soit pas identifié comme réaliste, parce qu'il n'y aura pas assez eu de données entrantes pour entraîner l'algorithme. En fait, ça ne fait que reprocher les biais qui existent déjà au cinéma."
 
 Dans un article du Monde “Les images créées par IA et le risque de réécrire l’histoire”  
 “Ce type de production menace d’alimenter les croyances conspirationnistes. Un internaute a ainsi généré une série de fausses archives montrant, de manière humoristique, derrière un impeccable jaune sépia, le « premier contact [avec des extraterrestres] en 1863 ». Une aubaine pour les « chercheurs de vérité » en manque de preuves visuelles, et souvent peu regardant sur leur provenance.”
@@ -43,7 +47,9 @@ Dans un article du Monde “Les images créées par IA et le risque de réécrir
 
 Perte de la valeur de preuve de l’image 
 
-
+Nuancer le manquement éthique des deepfakes : 
+"Il y a un film qui s'appelle Bienvenue en Tchétchénie, qui utilise justement les deepfakes de manière éthique, on va dire. C'est la prétention du film. En gros c'est un film sur la condition des homosexuels tchétchènes, qui sont du coup victimes de persécution. Et pour protéger les témoins, plutôt que de flouter ou d'escamoter le visage réel des personnages, ils les ont remplacés avec un deepfake, enfin plusieurs deepfakes.
+Et le geste assez poétique, c'est que le visage qui vient remplacer le visage réel des témoins, c'est celui de militants LGBT américains, qui ont accepté de prêter l'image de leur visage pour couvrir et protéger les homosexuels tchétchènes qui ont accepté de témoigner dans le film."
 
 Bibliographie : 
 
