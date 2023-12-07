@@ -6,12 +6,18 @@ main:
 
   - title: "Technologie"
     url: /technology/detection
-     
+
   - title: "Usages"
     url: /usages/usages
-
+    
   - title: "Enjeux"
-    url: /enjeux/enjeux
+    url: /enjeux/ 
+
+  - title: "Interview C. Thebault et K. Baert"
+    url: /interviews/ThebaultBaert
+
+  - title: "Interview S. Solé"
+    url: /interviews/Sole
     
   #- title: "Portfolio"
   #  url: /portfolio/
