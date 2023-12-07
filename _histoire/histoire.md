@@ -20,12 +20,10 @@ Le poète autrichien Rainer Maria Rilke écrit ainsi « Il y a une quantité de 
 
 Le visage produit donc du sens dans l’identification du sujet, et c’est pourquoi il est si important dans les arts pour identifier les différents personnages.  
 
-```
-CF éventuelle interview de Samuel Solé, doctorant à l’ENS-PSL 
-commenter son article “The Digital Face on the Screen: Continuity and Rupture in the History of the Face in Cinema” (pourrait aussi rentrer dans la partie sur les usages) 
+"Pendant tout le XXème siècle, on n'a fait que dévisager le visage, lui donner une forme plastique, modulable. Et qui s'oppose radicalement aux philosophies du visage, telles que pensées par Lévinas, où le visage est une unité indestructible, indécomposable, qui dépasse la simple manifestation matérielle et physique."
+ 
+Article “The Digital Face on the Screen: Continuity and Rupture in the History of the Face in Cinema” (pourrait aussi rentrer dans la partie sur les usages) 
 https://hal.science/hal-04248804/document 
-```
-
 
 Le visage fascine tellement qu’on cherche à le reproduire ou à le modifier. Les nouvelles technologies de l’Intelligence artificielle permettent désormais cela, avec une précision grandissante. 
 
