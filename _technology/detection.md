@@ -5,11 +5,13 @@ type: ""
 permalink: /technology/detection
 ---
 
-<p style="text-align:justify;">
+<div align="justify">
 
 Dans les articles de Microsoft, [3D Face Reconstruction with Dense Landmarks](https://microsoft.github.io/DenseLandmarks/) et [Fake It Till You Make It](https://microsoft.github.io/FaceSynthetics/) (Eroll Wood et al.), sont illustrés de nombreux aspects techniques de la synthèse de visages. 
 
 Ces 2 travaux sont motivés par un fait : si l'on veut faire un détecteur de repères faciaux denses en utilisant des méthodes d'apprentissage profond, il faut avoir un grand ensemble de données densément annotées, et cela ne peut pas être fait, de manière cohérente et à grande échelle, par des humains. On a donc besoin d'un jeu de données entièrement synthétique, sur lequel les points de repère faciaux seront connus par construction.
+
+
 
 Nous disinguerons plusieurs paramètres qui composent une photo de visage : 
 1. L'identité : ce sont les caractéristiques morphologique du visage propres à un individu. Par exemple : l'écart inter-oculaire, la largeur de la mâchoire, la taille des oreilles ...
@@ -34,4 +36,3 @@ C'est cette méthode qui est présente dans le papier de Microsoft [Fake It Till
 
 ## Génération entièrement réalisée avec des IA génératives
 
-</p>
