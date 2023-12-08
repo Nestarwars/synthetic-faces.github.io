@@ -64,17 +64,3 @@ Pour finir, nous proposons d'ouvrir vers la notion de "culture du faux"du profes
 <iframe width="1280" height="654" src="https://www.youtube.com/embed/9jjquRK2T5o" title="E-Guest Lecture : Massimo Leone - Semioethics of the Visual Fake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Samuel Solé complète justement notre invitation à la réflexion : "Il y a notamment ce professeur Massimo Leone, qui développe  une théorie autour de ce qu'il appelle l'idéologie du visage, et qui remonte bien sûr aux travaux de la physiognomie. Des portraits robots, des travaux d'Alphonse Bertillon, qui est le premier en gros à essayer d'établir une corrélation entre certains traits du visage et la prédisposition à certains types de crimes. Et qui aujourd'hui, sous pré-actualisé, par des biais plus scientifiques, on va dire, qui ne correspondent plus aux normes scientifiques actuelles, notamment dans les dispositifs de reconnaissance faciale, qui en fonction de certaines caractéristiques physiques vont criminaliser. Les biais sont essentiellement racialistes aujourd'hui. Mais effectivement, une personne qui va présenter certains traits physiques, et qui vont être détectés par un dispositif de reconnaissance sociale, c'est très courant dans les aéroports, va être le centre de l'attention du système de surveillance de l'aéroport. C'est couplé aussi à certains types de comportements, à certains types de vêtements, il n'y a pas que le visage qui est impliqué évidemment, mais ça s'inscrit justement dans cette idéologie du visage, qui consiste à faire du visage une surface lisible, transparente, et criminalisable, si elle répond à certains critères."
-
-
-
-Bibliographie : 
-
-https://www.cineclubdecaen.com/analyse/intelligenceartificielleaucinema.htm 
-
-https://savoirs-archives.unistra.fr/patrimoine/lia-peut-elle-creer/patrimoinelia-peut-elle-creerlia-au-cinema-ou-le-reflet-des-craintes-scientifiques-de-notre-epoque/index.html 
-
-https://hal.science/hal-04248804/document 
-
-https://www.lemonde.fr/les-decodeurs/article/2023/05/11/les-images-creees-par-ia-et-le-risque-de-reecrire-l-histoire_6172920_4355770.html 
-
-https://universiteouverte.u-cergy.fr/visage-et-mensonge-comment-lintelligence-artificielle-manipule-t-elle-les-images/
