@@ -1,15 +1,11 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+https://www.cineclubdecaen.com/analyse/intelligenceartificielleaucinema.htm 
+
+https://savoirs-archives.unistra.fr/patrimoine/lia-peut-elle-creer/patrimoinelia-peut-elle-creerlia-au-cinema-ou-le-reflet-des-craintes-scientifiques-de-notre-epoque/index.html 
+
+https://hal.science/hal-04248804/document 
+
+https://www.lemonde.fr/les-decodeurs/article/2023/05/11/les-images-creees-par-ia-et-le-risque-de-reecrire-l-histoire_6172920_4355770.html 
+
+https://universiteouverte.u-cergy.fr/visage-et-mensonge-comment-lintelligence-artificielle-manipule-t-elle-les-images/
