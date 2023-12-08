@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Des visages synthétiques pour un apprentissage éthique ?"
+title: "Des visages synthétiques pour le cinéma ?"
 excerpt: ""
 author_profile: true
 redirect_from: 
