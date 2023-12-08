@@ -48,6 +48,9 @@ Samuel Solé complète justement notre invitation à la réflexion : "Il y a not
 
 Pour conclure sur notre base de données, nous constatons tout de même un biais de représentativité en termes de diversité. Il y a une surreprésentativité des jeunes de 20 à 30 ans, ainsi que des personnes blanches. Selon S. Solé, "Le problème, c'est que si un créateur veut essayer de produire un visage qui soit celui d'une personne noire, indienne ou arabe, il y a plus de chances pour que ce visage ne soit pas réaliste, ou ne suscite moins d'empathie, ou ne soit pas identifié comme réaliste, parce qu'il n'y aura pas assez eu de données entrantes pour entraîner l'algorithme. En fait, ça ne fait que reproduire les biais qui existent déjà au cinéma."
 
+![Microsoft](Microsoft.png)
+*Histograms of self-reported age, gender, and ethnicity in Microsoft's "Face it until you make it" collection of 3D face scans. 2021*
+
 Dans un article du Monde “Les images créées par IA et le risque de réécrire l’histoire”  
 “Ce type de production menace d’alimenter les croyances conspirationnistes. Un internaute a ainsi généré une série de fausses archives montrant, de manière humoristique, derrière un impeccable jaune sépia, le « premier contact [avec des extraterrestres] en 1863 ». Une aubaine pour les « chercheurs de vérité » en manque de preuves visuelles, et souvent peu regardant sur leur provenance.”
 
