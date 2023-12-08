@@ -18,7 +18,7 @@ Nous disinguerons plusieurs paramètres qui composent une photo de visage :
 3. La texture : c'est la couleur (l'albedo), et le relief de la peau
 4. La pilosité : sourcils, cheveux, barbes, moustaches ...
 5. Les accessoires : les couvres-chefs, les vêtements, les bijoux, les lunettes ...
-6. Le fond : l'arrière plan qui permet de situer un visage dans son contexte.
+6. Le fond et les éclairages : l'arrière plan qui permet de situer un visage dans son contexte et les lumières permettant de créer une variété de situations lumineuses
 
 Pour en synthétiser, plusieurs approches sont possibles, détaillons-les ici, de la plus "manuelle" à la plus "automatique" : 
 
@@ -39,8 +39,19 @@ Il ne reste plus qu'a ajouter les 3 paramètres restants que l'on construira man
 
 *Les différentes étapes de génération de faux visages de l'équipe de Microsoft : modèle neutre -> identité -> expression -> texture -> pilosité -> accessoires -> fond*
 
+Cette méthode, comme la précédente, on l'avantage de présenter une confiance très forte en les données de sorties. En effet, comme tout est construit de manière explicite, on connait parfaitement toutes les caractéristiques des données produites 
+
 ## Génération hybride, avec modèles paramétriques et complétion par IA générative
 
+Cette méthode, développée par exemple par Nestor Laborier au sein de Technicolor Creative Studios, vise à minimiser les interventions humaines en déléguant les tâches moins importantes telles que la pilosité, les accessoires, et le fond, à des IA génératives, de façon à réduire drastiquement la quantité d'éléments manuellement produits.
 
+Le vecteur (*identité,expression,texture*) est produit de la même manière que ci-dessus, avec un 3DMM, des blendshapes, et une texture qu'on pioche aléatoirement. Le visage est ensuite verouillé et à l'aide d'outils génératifs tels que Stable Diffusion, on vient réaliser une passe d'*inpainting* (remplissage) de la zone hors-visage. Cet *inpainting* se doit d'être contraint par le visage verouillé pour ne pas produire de résultats absurdes (par ex, on ne veut pas d'un autre visage derrière notre visage généré), l'IA générative doit se contenter de produire un fond cohérent, une pilosité crédible, et des accessoires réalistes. Pour cela on l'initialise avec une image intermédiaire composée du visage généré, d'un crâne neutre pour conditionner la pose de la tête complète, et un fond bruité aléatoire pour que l'IA ne converge pas systématiquement sur la même chose.
+
+Ensuite pour parfaire le résultat, il faut faire en sorte que le visage généré et la zone *inpaintée* soit cohérents. Pour cela on utilise un autre type d'IA générative, les GANs, qui, par nature, sont réaliste. 
+
+![les étapes de génération hybride](TCSface.png)
+
+*Les différentes étapes de générations avec l'approche hybride : identité + expression -> image d'initialisation -> inpainting par IA -> restauration du visage final par GAN*
 
 ## Génération entièrement réalisée avec des IA génératives
+
