@@ -36,3 +36,4 @@ C'est cette méthode qui est présente dans le papier de Microsoft [Fake It Till
 
 ## Génération entièrement réalisée avec des IA génératives
 
+</div>
