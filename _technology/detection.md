@@ -5,7 +5,6 @@ type: ""
 permalink: /technology/detection
 ---
 
-<div align="justify">
 
 Dans les articles de Microsoft, [3D Face Reconstruction with Dense Landmarks](https://microsoft.github.io/DenseLandmarks/) et [Fake It Till You Make It](https://microsoft.github.io/FaceSynthetics/) (Eroll Wood et al.), sont illustrés de nombreux aspects techniques de la synthèse de visages. 
 
@@ -29,11 +28,19 @@ Cette méthode qu'on pourrait qualifier de *brute-force* consiste à créer manu
 
 ## Génération partiellement basée sur des modèles paramétriques
 
-C'est cette méthode qui est présente dans le papier de Microsoft [Fake It Till You Make It](https://microsoft.github.io/FaceSynthetics/) (Eroll Wood et al.). Pour l'identité
+C'est cette méthode qui est présente dans le papier de Microsoft [Fake It Till You Make It](https://microsoft.github.io/FaceSynthetics/) (Eroll Wood et al.). Pour l'identité, on utilise un *3D Morphable Model* (3DMM), un modèle 3D de visages dont les caractéristiques sont décomposées sur une base vectorielle. L'identité sera donc une série de coefficients appliqués à cette base vectorielle afin d'obtenir des caractéristiques particulières. Généralement ces 3DMM sont établis par une Analyse en Composante Principale (PCA) effectuée sur une grande base de scans 3D de visages humains réels. C'est donc en partant d'identités réelles qu'on arrive à obtenir un modèle paramétrique permettant la synthèse de nouvelles identités.
+Généralement ces 3DMM produisent un modèle 3D facilement (voire automatiquement) *riggable*, cela signifie que l'on peu facilement attribuer des déformations unitaires (analogues à des muscles) à ce modèle 3D. Ce sont ces déformations unitaires, appelées *blendshapes*, qui vont permettre de créer une expression de façon paramétrique.
+
+Nous avons donc à notre dispositions 2 séries de coefficients avec lesquels jouer : une pour l'identité, une pour l'expression. Ces coefficients peuvent donc être aléatoirement piochés pour générer à chaque fois des combinaisons, donc des couples (*identité, expression*) uniques. On peut de la même manière appliquer un modèles paramétrique de textures de peau, avec des coefficients de couleurs, de reliefs ...
+
+Il ne reste plus qu'a ajouter les 3 paramètres restants que l'on construira manuellement : la pilosité, les accessoires, le fond. C'est exactement ce qu'a fait l'équipe de Microsoft.
+
+![Les étapes de générations de faux visages de l'équipe de Microsoft](MicrosoftFake.png)
+
+*Les différentes étapes de génération de faux visages de l'équipe de Microsoft : modèle neutre -> identité -> expression -> texture -> pilosité -> accessoires -> fond*
 
 ## Génération hybride, avec modèles paramétriques et complétion par IA générative
 
 
-## Génération entièrement réalisée avec des IA génératives
 
-</div>
+## Génération entièrement réalisée avec des IA génératives
